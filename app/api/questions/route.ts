@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import questions from "@/data/questions.json";
+import questions from "@/data/questions_with_images.json";
 
 export async function GET() {
   return NextResponse.json(questions);

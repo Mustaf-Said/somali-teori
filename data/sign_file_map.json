@@ -1,0 +1,44 @@
+{
+  "B1": {
+    "category": "B",
+    "candidates": [
+      "B1.svg"
+    ]
+  },
+  "B2": {
+    "category": "B",
+    "candidates": [
+      "B2.svg"
+    ]
+  },
+  "C2": {
+    "category": "C",
+    "candidates": [
+      "C2.svg"
+    ]
+  },
+  "C31-50": {
+    "category": "C",
+    "candidates": [
+      "C31-50.svg"
+    ]
+  },
+  "D5": {
+    "category": "D",
+    "candidates": [
+      "D5.svg"
+    ]
+  },
+  "E1": {
+    "category": "E",
+    "candidates": [
+      "E1.svg"
+    ]
+  },
+  "E19": {
+    "category": "E",
+    "candidates": [
+      "E19.svg"
+    ]
+  }
+}
